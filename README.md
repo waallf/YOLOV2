@@ -1,4 +1,4 @@
 # YOLOV2
-目标检测之YOLOV2
+目标检测之YOLOV3
 
-pytorch_YOLOV2
+pytorch_YOLOV3
